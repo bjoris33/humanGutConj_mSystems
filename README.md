@@ -1,4 +1,4 @@
-# Supplementary Methods and Materials for the _________ paper
+# Supplementary Methods and Materials for the mSystems "Separation of cohorts on the basis of bacterial type IV conjugation systems identified from metagenomic assemblies paper
 
 ## Table of contents
 
