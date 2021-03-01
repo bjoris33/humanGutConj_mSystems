@@ -1,0 +1,78 @@
+HMMS -- Conjugation, ANVI'O
+
+INTEGRASE
+Phage_integrase PF00589.22      http://pfam.xfam.org/family/PF00589.22
+Recombinase     PF07508.13      http://pfam.xfam.org/family/PF07508.13
+IntegraseCoreDomain     PF00665.26      http://pfam.xfam.org/family/PF00665.26
+
+RELAXASE
+Mob_Pre PF01076.19      http://pfam.xfam.org/family/PF01076.19
+MobA_MobL       PF03389.15      http://pfam.xfam.org/family/PF03389.15
+MobC    PF05713.11      http://pfam.xfam.org/family/PF05713.11
+Relaxase        PF03432.14      http://pfam.xfam.org/family/PF03432.14
+Rep_trans       PF02486.19      http://pfam.xfam.org/family/PF02486.19
+Replic_Relax    PF13814.6       http://pfam.xfam.org/family/PF13814.6
+TraI    PF07057.11      http://pfam.xfam.org/family/PF07057.11
+TraI_2  PF07514.11      http://pfam.xfam.org/family/PF07514.11
+TrwC    PF08751.11      http://pfam.xfam.org/family/PF08751.11
+
+T4CP
+FtsK_SpoIIIE    PF01580.18      http://pfam.xfam.org/family/PF01580.18
+T4SS-DNA_transf PF02534.14      http://pfam.xfam.org/family/PF02534.14
+TraD_N  PF12615.8       http://pfam.xfam.org/family/PF12615.8
+TraG-D_C        PF12696.7       http://pfam.xfam.org/family/PF12696.7
+TrwB_AAD_bind   PF10412.9       http://pfam.xfam.org/family/PF10412.9
+
+T4SS
+AAA_10  PF12846.7       http://pfam.xfam.org/family/PF12846.7
+CagX    PF03524.15      http://pfam.xfam.org/family/PF03524.15
+DUF2895 PF11444.8       http://pfam.xfam.org/family/PF11444.8
+T4BSS_DotH_IcmK PF12293.8       http://pfam.xfam.org/family/PF12293.8
+T4BSS_DotI_IcmL PF11393.8       http://pfam.xfam.org/family/PF11393.8
+TraE    PF05309.11      http://pfam.xfam.org/family/PF05309.11
+TraH    PF06122.11      http://pfam.xfam.org/family/PF06122.11
+TraK    PF06586.11      http://pfam.xfam.org/family/PF06586.11
+TraL    PF07178.11      http://pfam.xfam.org/family/PF07178.11
+TraN    PF06986.11      http://pfam.xfam.org/family/PF06986.11
+TraU    PF06834.11      http://pfam.xfam.org/family/PF06834.11
+TraV    PF09676.10      http://pfam.xfam.org/family/PF09676.10
+TrbC_Ftype      PF09673.10      http://pfam.xfam.org/family/PF09673.10
+TrbL    PF04610.14      http://pfam.xfam.org/family/PF04610.14
+VirB3   PF05101.13      http://pfam.xfam.org/family/PF05101.13
+VirB8   PF04335.13      http://pfam.xfam.org/family/PF04335.13
+
+Transposase
+DDE_2   PF02914.15      http://pfam.xfam.org/family/PF02914.15
+HTH_Tnp_Tc3_1   PF11427.8       http://pfam.xfam.org/family/PF11427.8
+HTH_Tnp_Tc3_2   PF01498.18      http://pfam.xfam.org/family/PF01498.18
+Y1_Tnp  PF01797.16      http://pfam.xfam.org/family/PF01797.16
+Tnp_DNA_bind    PF14706.6       http://pfam.xfam.org/family/PF14706.6
+HTH_Tnp_1       PF01527.20      http://pfam.xfam.org/family/PF01527.20
+DEDD_Tnp_IS110  PF01548.17      http://pfam.xfam.org/family/PF01548.17
+Tnp_P_element   PF12017.8       http://pfam.xfam.org/family/PF12017.8
+DDE_Tnp_ISL3    PF01610.17      http://pfam.xfam.org/family/PF01610.17
+HTH_Tnp_IS630   PF01710.16      http://pfam.xfam.org/family/PF01710.16
+
+
+
+INTEGRATION OF HMMS INTO ANVI'O:
+
+Each HMM group directory (ie: Transposase or Relaxase) contains:
+• genes.hmm.gz		single gzip'd file containing a concatenation of all the hmms of the type (ie: Transposase or Relaxase)
+• genes.txt			text file containing each hmm name, accession number, and source
+• kind.txt			text file containing the hmm group name (ie: Transposase or Relaxase)
+• noise_cutoff_terms.txt	text file containing the noise cutoff "--cut_ga"
+• reference.txt		text file containing reference information
+• target.txt		text file containing the hmm target/conversion to be done (ie: "AA:GENE")
+
+When finished you should have 5 HMM directories, each containing 6 files, with directories labelled:
+Integrase	Relaxase	T4CP	T4SS	Transposase
+
+Place these directories in:
+anvio-5.2_python3.6/lib64/python3.6/site-packages/anvio/data/hmm/
+
+Our server's placement of the HMMs:
+/Volumes/data/virtualenvs/anvio-5.2_python3.6/lib64/python3.6/site-packages/anvio/data/hmm/
+
+These HMMs will now be run on the target databases when performing the command:
+anvi-run-hmms

@@ -1,0 +1,785 @@
+ERR260132	Western European
+ERR260133	Western European
+ERR260134	Western European
+ERR260135	Western European
+ERR260136	Western European
+ERR260137	Western European
+ERR260138	Western European
+ERR260139	Western European
+ERR260140	Western European
+ERR260141	Western European
+ERR260142	Western European
+ERR260143	Western European
+ERR260144	Western European
+ERR260145	Western European
+ERR260146	Western European
+ERR260147	Western European
+ERR260148	Western European
+ERR260149	Western European
+ERR260150	Western European
+ERR260151	Western European
+ERR260152	Western European
+ERR260153	Western European
+ERR260154	Western European
+ERR260155	Western European
+ERR260156	Western European
+ERR260157	Western European
+ERR260158	Western European
+ERR260159	Western European
+ERR260160	Western European
+ERR260161	Western European
+ERR260162	Western European
+ERR260163	Western European
+ERR260164	Western European
+ERR260165	Western European
+ERR260166	Western European
+ERR260167	Western European
+ERR260168	Western European
+ERR260169	Western European
+ERR260170	Western European
+ERR260171	Western European
+ERR260172	Western European
+ERR260173	Western European
+ERR260174	Western European
+ERR260175	Western European
+ERR260176	Western European
+ERR260177	Western European
+ERR260178	Western European
+ERR260179	Western European
+ERR260180	Western European
+ERR260181	Western European
+ERR260182	Western European
+ERR260183	Western European
+ERR260184	Western European
+ERR260185	Western European
+ERR260186	Western European
+ERR260187	Western European
+ERR260188	Western European
+ERR260189	Western European
+ERR260190	Western European
+ERR260191	Western European
+ERR260192	Western European
+ERR260193	Western European
+ERR260194	Western European
+ERR260195	Western European
+ERR260196	Western European
+ERR260197	Western European
+ERR260198	Western European
+ERR260199	Western European
+ERR260200	Western European
+ERR260201	Western European
+ERR260202	Western European
+ERR260203	Western European
+ERR260204	Western European
+ERR260205	Western European
+ERR260206	Western European
+ERR260207	Western European
+ERR260208	Western European
+ERR260209	Western European
+ERR260210	Western European
+ERR260211	Western European
+ERR260214	Western European
+ERR260215	Western European
+ERR260216	Western European
+ERR260217	Western European
+ERR260218	Western European
+ERR260219	Western European
+ERR260220	Western European
+ERR260221	Western European
+ERR260222	Western European
+ERR260223	Western European
+ERR260224	Western European
+ERR260225	Western European
+ERR260226	Western European
+ERR260227	Western European
+ERR260228	Western European
+ERR260229	Western European
+ERR260230	Western European
+ERR260231	Western European
+ERR260232	Western European
+ERR260233	Western European
+SRR1761664	South American
+SRR1761665	South American
+SRR1761666	South American
+SRR1761667	South American
+SRR1761668	South American
+SRR1761669	South American
+SRR1761670	South American
+SRR1761671	South American
+SRR1761672	South American
+SRR1761674	South American
+SRR1761675	South American
+SRR1761698	South American
+SRR1761699	South American
+SRR1761700	South American
+SRR1761701	South American
+SRR1761702	South American
+SRR1761703	South American
+SRR1761704	South American
+SRR1761706	South American
+SRR1761707	South American
+SRR1761708	South American
+SRR1761709	South American
+SRR1761710	South American
+SRR1761711	South American
+SRR1761712	South American
+SRR1761713	South American
+SRR1761714	South American
+SRR1761716	South American
+SRR1761717	South American
+SRR1761718	South American
+SRR1761719	South American
+SRR1761720	South American
+SRR1761721	South American
+SRR3131692	North American Pre-term Infant
+SRR3131694	North American Pre-term Infant
+SRR3131696	North American Pre-term Infant
+SRR3131698	North American Pre-term Infant
+SRR3131700	North American Pre-term Infant
+SRR3131702	North American Pre-term Infant
+SRR3131704	North American Pre-term Infant
+SRR3131706	North American Pre-term Infant
+SRR3131708	North American Pre-term Infant
+SRR3131710	North American Pre-term Infant
+SRR3131712	North American Pre-term Infant
+SRR3131714	North American Pre-term Infant
+SRR3131716	North American Pre-term Infant
+SRR3131718	North American Pre-term Infant
+SRR3131720	North American Pre-term Infant
+SRR3131722	North American Pre-term Infant
+SRR3131724	North American Pre-term Infant
+SRR3131726	North American Pre-term Infant
+SRR3131728	North American Pre-term Infant
+SRR3131730	North American Pre-term Infant
+SRR3131732	North American Pre-term Infant
+SRR3131734	North American Pre-term Infant
+SRR3131736	North American Pre-term Infant
+SRR3131738	North American Pre-term Infant
+SRR3131740	North American Pre-term Infant
+SRR3131742	North American Pre-term Infant
+SRR3131744	North American Pre-term Infant
+SRR3131746	North American Pre-term Infant
+SRR3131748	North American Pre-term Infant
+SRR3131750	North American Pre-term Infant
+SRR3131752	North American Pre-term Infant
+SRR3131754	North American Pre-term Infant
+SRR3131756	North American Pre-term Infant
+SRR3131758	North American Pre-term Infant
+SRR3131760	North American Pre-term Infant
+SRR3131762	North American Pre-term Infant
+SRR3131764	North American Pre-term Infant
+SRR3131766	North American Pre-term Infant
+SRR3131768	North American Pre-term Infant
+SRR3131770	North American Pre-term Infant
+SRR3131772	North American Pre-term Infant
+SRR3131774	North American Pre-term Infant
+SRR3131776	North American Pre-term Infant
+SRR3131778	North American Pre-term Infant
+SRR3131780	North American Pre-term Infant
+SRR3131782	North American Pre-term Infant
+SRR3131784	North American Pre-term Infant
+SRR3131786	North American Pre-term Infant
+SRR3131788	North American Pre-term Infant
+SRR3131790	North American Pre-term Infant
+SRR1778451	East Asian
+SRR1778452	East Asian
+SRR1778453	East Asian
+SRR1778454	East Asian
+SRR1778455	East Asian
+SRR1778456	East Asian
+SRR1927149	West African
+SRR1929408	West African
+SRR1929484	West African
+SRR1929485	West African
+SRR1929563	West African
+SRR1929574	West African
+SRR1930121	West African
+SRR1930122	West African
+SRR1930123	West African
+SRR1930128	West African
+SRR1930132	West African
+SRR1930133	West African
+SRR1930134	West African
+SRR1930136	West African
+SRR1930138	West African
+SRR1930140	West African
+SRR1930141	West African
+SRR1930142	West African
+SRR1930143	West African
+SRR1930144	West African
+SRR1930145	West African
+SRR1930149	West African
+SRR1930176	West African
+SRR1930177	West African
+SRR1930179	West African
+SRR1930187	West African
+SRR1930244	West African
+SRR2912775	North American Indigenous
+SRR2912776	North American Indigenous
+SRR2912777	North American Indigenous
+SRR2912778	North American Indigenous
+SRR2912779	North American Indigenous
+SRR2912780	North American Indigenous
+SRR2912781	North American Indigenous
+SRR2912782	North American Indigenous
+SRR2912783	North American Indigenous
+SRR2912784	North American Indigenous
+SRR2912785	North American Indigenous
+SRR2912786	North American Indigenous
+SRR2912787	North American Indigenous
+SRR2912788	North American Indigenous
+SRR2912789	North American Indigenous
+SRR2912790	North American Indigenous
+SRR2912791	North American Indigenous
+SRR2912792	North American Indigenous
+SRR2912793	North American Indigenous
+SRR2912794	North American Indigenous
+SRR2912795	North American Indigenous
+SRR2912796	North American Indigenous
+SRR2912797	North American Indigenous
+SRR2912798	North American Indigenous
+SRR2912799	North American Indigenous
+SRR2912800	North American Indigenous
+SRR2912801	North American Indigenous
+SRR2912802	North American Indigenous
+SRR2912803	North American Indigenous
+SRR2912804	North American Indigenous
+SRR2912805	North American Indigenous
+SRR2912806	North American Indigenous
+SRR2912807	North American Indigenous
+SRR2912809	North American Indigenous
+SRR2912810	North American Indigenous
+SRR2912811	North American Indigenous
+SRR3131792	North American Pre-term Infant
+SRR3131794	North American Pre-term Infant
+SRR3131796	North American Pre-term Infant
+SRR3131798	North American Pre-term Infant
+SRR3131800	North American Pre-term Infant
+SRR3131802	North American Pre-term Infant
+SRR3131804	North American Pre-term Infant
+SRR3131806	North American Pre-term Infant
+SRR3131808	North American Pre-term Infant
+SRR3131810	North American Pre-term Infant
+SRR3131812	North American Pre-term Infant
+SRR3131814	North American Pre-term Infant
+SRR3131816	North American Pre-term Infant
+SRR3131818	North American Pre-term Infant
+SRR3131820	North American Pre-term Infant
+SRR3131822	North American Pre-term Infant
+SRR3131824	North American Pre-term Infant
+SRR3131826	North American Pre-term Infant
+SRR3131828	North American Pre-term Infant
+SRR3131830	North American Pre-term Infant
+SRR3131832	North American Pre-term Infant
+SRR3131834	North American Pre-term Infant
+SRR3131836	North American Pre-term Infant
+SRR3131838	North American Pre-term Infant
+SRR3131840	North American Pre-term Infant
+SRR3131842	North American Pre-term Infant
+SRR3131844	North American Pre-term Infant
+SRR3131846	North American Pre-term Infant
+SRR3131848	North American Pre-term Infant
+SRR3131850	North American Pre-term Infant
+SRR3131852	North American Pre-term Infant
+SRR3131854	North American Pre-term Infant
+SRR3131856	North American Pre-term Infant
+SRR3131858	North American Pre-term Infant
+SRR3131860	North American Pre-term Infant
+SRR3131862	North American Pre-term Infant
+SRR3131864	North American Pre-term Infant
+SRR3131866	North American Pre-term Infant
+SRR3131868	North American Pre-term Infant
+SRR3131870	North American Pre-term Infant
+SRR3131872	North American Pre-term Infant
+SRR3131874	North American Pre-term Infant
+SRR3131876	North American Pre-term Infant
+SRR3131878	North American Pre-term Infant
+SRR3131880	North American Pre-term Infant
+SRR3131882	North American Pre-term Infant
+SRR3131884	North American Pre-term Infant
+SRR3131886	North American Pre-term Infant
+SRR3131888	North American Pre-term Infant
+SRR3131890	North American Pre-term Infant
+SRR3131892	North American Pre-term Infant
+SRR341581	East Asian
+SRR341582	East Asian
+SRR341583	East Asian
+SRR341584	East Asian
+SRR341585	East Asian
+SRR341586	East Asian
+SRR341587	East Asian
+SRR341588	East Asian
+SRR341589	East Asian
+SRR341590	East Asian
+SRR341591	East Asian
+SRR341592	East Asian
+SRR341593	East Asian
+SRR341594	East Asian
+SRR341595	East Asian
+SRR341596	East Asian
+SRR341597	East Asian
+SRR341598	East Asian
+SRR341599	East Asian
+SRR341600	East Asian
+SRR341601	East Asian
+SRR341602	East Asian
+SRR341603	East Asian
+SRR341604	East Asian
+SRR341605	East Asian
+SRR341606	East Asian
+SRR341607	East Asian
+SRR341608	East Asian
+SRR341609	East Asian
+SRR341610	East Asian
+SRR341611	East Asian
+SRR341612	East Asian
+SRR341613	East Asian
+SRR341614	East Asian
+SRR341615	East Asian
+SRR341616	East Asian
+SRR341617	East Asian
+SRR341618	East Asian
+SRR341619	East Asian
+SRR341620	East Asian
+SRR341621	East Asian
+SRR341622	East Asian
+SRR341623	East Asian
+SRR341624	East Asian
+SRR341625	East Asian
+SRR341626	East Asian
+SRR341627	East Asian
+SRR341628	East Asian
+SRR341629	East Asian
+SRR341630	East Asian
+SRR341631	East Asian
+SRR341632	East Asian
+SRR341633	East Asian
+SRR341634	East Asian
+SRR341635	East Asian
+SRR341636	East Asian
+SRR341637	East Asian
+SRR341638	East Asian
+SRR341639	East Asian
+SRR341640	East Asian
+SRR341641	East Asian
+SRR341642	East Asian
+SRR341643	East Asian
+SRR341644	East Asian
+SRR341645	East Asian
+SRR341646	East Asian
+SRR341647	East Asian
+SRR341648	East Asian
+SRR341649	East Asian
+SRR341650	East Asian
+SRR341651	East Asian
+SRR341652	East Asian
+SRR341653	East Asian
+SRR341654	East Asian
+SRR341655	East Asian
+SRR341656	East Asian
+SRR341657	East Asian
+SRR341658	East Asian
+SRR341659	East Asian
+SRR341660	East Asian
+SRR341661	East Asian
+SRR341662	East Asian
+SRR341663	East Asian
+SRR341664	East Asian
+SRR341665	East Asian
+SRR341666	East Asian
+SRR341667	East Asian
+SRR341668	East Asian
+SRR341669	East Asian
+SRR341670	East Asian
+SRR341671	East Asian
+SRR341672	East Asian
+SRR341673	East Asian
+SRR341674	East Asian
+SRR341675	East Asian
+SRR341676	East Asian
+SRR341677	East Asian
+SRR341678	East Asian
+SRR341679	East Asian
+SRR341680	East Asian
+SRR341681	East Asian
+SRR341682	East Asian
+SRR341683	East Asian
+SRR341684	East Asian
+SRR341685	East Asian
+SRR341686	East Asian
+SRR341687	East Asian
+SRR341688	East Asian
+SRR341689	East Asian
+SRR341690	East Asian
+SRR341691	East Asian
+SRR341692	East Asian
+SRR341693	East Asian
+SRR341694	East Asian
+SRR341695	East Asian
+SRR341696	East Asian
+SRR341697	East Asian
+SRR341698	East Asian
+SRR341699	East Asian
+SRR341700	East Asian
+SRR341701	East Asian
+SRR341702	East Asian
+SRR341703	East Asian
+SRR341704	East Asian
+SRR341705	East Asian
+SRR341706	East Asian
+SRR341707	East Asian
+SRR341708	East Asian
+SRR341709	East Asian
+SRR341710	East Asian
+SRR341711	East Asian
+SRR341712	East Asian
+SRR341713	East Asian
+SRR341714	East Asian
+SRR341715	East Asian
+SRR341716	East Asian
+SRR341717	East Asian
+SRR341718	East Asian
+SRR341719	East Asian
+SRR341720	East Asian
+SRR341721	East Asian
+SRR341722	East Asian
+SRR341723	East Asian
+SRR341724	East Asian
+SRR341725	East Asian
+SRR413615	East Asian
+SRR413626	East Asian
+SRR413631	East Asian
+SRR413632	East Asian
+SRR413633	East Asian
+SRR413634	East Asian
+SRR413668	East Asian
+SRR413669	East Asian
+SRR413670	East Asian
+SRR413671	East Asian
+SRR413672	East Asian
+SRR413724	East Asian
+SRR413725	East Asian
+SRR413726	East Asian
+SRR413727	East Asian
+SRR413730	East Asian
+SRR413731	East Asian
+SRR5597270	Western European Infant
+SRR5597271	Western European Infant
+SRR5597272	Western European Infant
+SRR5597273	Western European Infant
+SRR5597274	Western European Infant
+SRR5597275	Western European Infant
+SRR5597276	Western European Infant
+SRR5597277	Western European Infant
+SRR5597278	Western European Infant
+SRR5597279	Western European Infant
+SRR5597280	Western European Infant
+SRR5597281	Western European Infant
+SRR5597282	Western European Infant
+SRR5597283	Western European Infant
+SRR5597284	Western European Infant
+SRR5597285	Western European Infant
+SRR5597286	Western European Infant
+SRR5597287	Western European Infant
+SRR5597288	Western European Infant
+SRR5597289	Western European Infant
+SRR5597290	Western European Infant
+SRR5597291	Western European Infant
+SRR5597292	Western European Infant
+SRR5597293	Western European Infant
+SRR5597294	Western European Infant
+SRR5597295	Western European Infant
+SRR5597296	Western European Infant
+SRR5597297	Western European Infant
+SRR5597298	Western European Infant
+SRR5597299	Western European Infant
+SRR5597300	Western European Infant
+SRR5597301	Western European Infant
+SRR5597302	Western European Infant
+SRR5597303	Western European Infant
+SRR5597304	Western European Infant
+SRR5597305	Western European Infant
+SRR5597306	Western European Infant
+SRR5597307	Western European Infant
+SRR5597308	Western European Infant
+SRR5597309	Western European Infant
+SRR5597310	Western European Infant
+SRR5597311	Western European Infant
+SRR5597312	Western European Infant
+SRR5597313	Western European Infant
+SRR5597314	Western European Infant
+SRR5597315	Western European Infant
+SRR5597316	Western European Infant
+SRR5597317	Western European Infant
+SRR5597318	Western European Infant
+SRR5597319	Western European Infant
+SRR5597320	Western European Infant
+SRR5597321	Western European Infant
+SRR5597322	Western European Infant
+SRR5597323	Western European Infant
+SRR5597324	Western European Infant
+SRR5597325	Western European Infant
+SRR5597326	Western European Infant
+SRR5597327	Western European Infant
+SRR5597328	Western European Infant
+SRR5597329	Western European Infant
+SRR5597330	Western European Infant
+SRR5597331	Western European Infant
+SRR5597332	Western European Infant
+SRR5597333	Western European Infant
+SRR5597334	Western European Infant
+SRR5597335	Western European Infant
+SRR5597336	Western European Infant
+SRR5597337	Western European Infant
+SRR5597338	Western European Infant
+SRR5597339	Western European Infant
+SRR5597340	Western European Infant
+SRR5597341	Western European Infant
+SRR5597342	Western European Infant
+SRR5597343	Western European Infant
+SRR5597344	Western European Infant
+SRR5597345	Western European Infant
+SRR5597346	Western European Infant
+SRR5597347	Western European Infant
+SRR5597348	Western European Infant
+SRR5597349	Western European Infant
+SRR5597350	Western European Infant
+SRR5597351	Western European Infant
+SRR5597352	Western European Infant
+SRR5597353	Western European Infant
+SRR5597354	Western European Infant
+SRR5597355	Western European Infant
+SRR5597356	Western European Infant
+SRR5597357	Western European Infant
+SRR5597358	Western European Infant
+SRR5597359	Western European Infant
+SRR5597360	Western European Infant
+SRR5597361	Western European Infant
+SRR5597362	Western European Infant
+SRR5597363	Western European Infant
+SRR5597364	Western European Infant
+SRR5597365	Western European Infant
+SRR5597366	Western European Infant
+SRR5597367	Western European Infant
+SRR5597368	Western European Infant
+SRR5597369	Western European Infant
+SRR5597370	Western European Infant
+SRR5597371	Western European Infant
+SRR5597372	Western European Infant
+SRR5597373	Western European Infant
+SRR5597374	Western European Infant
+SRR5597375	Western European Infant
+SRR5597376	Western European Infant
+SRR5597377	Western European Infant
+SRR5597378	Western European Infant
+SRR5597379	Western European Infant
+SRR5597380	Western European Infant
+SRR5597381	Western European Infant
+SRR5597382	Western European Infant
+SRR5597383	Western European Infant
+SRR5597384	Western European Infant
+SRR5597385	Western European Infant
+SRR5597386	Western European Infant
+SRR5597387	Western European Infant
+SRR5597388	Western European Infant
+SRR5597389	Western European Infant
+SRR5597390	Western European Infant
+SRR5597391	Western European Infant
+SRR5597392	Western European Infant
+SRR5597393	Western European Infant
+SRR5597394	Western European Infant
+SRR5597395	Western European Infant
+SRR5597396	Western European Infant
+SRR5597397	Western European Infant
+SRR5597398	Western European Infant
+SRR5597399	Western European Infant
+SRR5597400	Western European Infant
+SRR5597401	Western European Infant
+SRR5597402	Western European Infant
+SRR5597403	Western European Infant
+SRR5597404	Western European Infant
+SRR5597405	Western European Infant
+SRR5597406	Western European Infant
+SRR5597407	Western European Infant
+SRR5597408	Western European Infant
+SRR5597409	Western European Infant
+SRR5597410	Western European Infant
+SRR5597411	Western European Infant
+SRR5597412	Western European Infant
+SRR5597413	Western European Infant
+SRR5597414	Western European Infant
+SRR5597415	Western European Infant
+SRR5597416	Western European Infant
+SRR5597417	Western European Infant
+SRR5597418	Western European Infant
+SRR5597419	Western European Infant
+SRR5597420	Western European Infant
+SRR5597421	Western European Infant
+SRR5597422	Western European Infant
+SRR5597423	Western European Infant
+SRR5597424	Western European Infant
+SRR5597425	Western European Infant
+SRR5597426	Western European Infant
+SRR5597427	Western European Infant
+SRR5597428	Western European Infant
+SRR5597429	Western European Infant
+SRR5597430	Western European Infant
+SRR5597431	Western European Infant
+SRR5597432	Western European Infant
+SRR5597433	Western European Infant
+SRR5597434	Western European Infant
+SRR5597435	Western European Infant
+SRR5597436	Western European Infant
+SRR5597437	Western European Infant
+SRR5597438	Western European Infant
+SRR5621369	Western European Infant
+SRR5621370	Western European Infant
+SRR5621371	Western European Infant
+SRR5621372	Western European Infant
+SRR5621373	Western European Infant
+SRR5621374	Western European Infant
+SRR5621375	Western European Infant
+SRR5621376	Western European Infant
+SRR5621377	Western European Infant
+SRR5621378	Western European Infant
+SRR5621379	Western European Infant
+SRR5621380	Western European Infant
+SRR5621381	Western European Infant
+SRR5621382	Western European Infant
+SRR5621383	Western European Infant
+SRR5621384	Western European Infant
+SRR5621385	Western European Infant
+SRR5621386	Western European Infant
+SRR5621387	Western European Infant
+SRR5621388	Western European Infant
+SRR5621389	Western European Infant
+SRR5621390	Western European Infant
+SRR5621391	Western European Infant
+SRR5621392	Western European Infant
+SRR5621393	Western European Infant
+SRR5621394	Western European Infant
+SRR5621395	Western European Infant
+SRR5621396	Western European Infant
+SRR5621397	Western European Infant
+SRR5621398	Western European Infant
+SRR5621399	Western European Infant
+SRR5621400	Western European Infant
+SRR5621401	Western European Infant
+SRR5621402	Western European Infant
+SRR5621403	Western European Infant
+SRR5621404	Western European Infant
+SRR5621405	Western European Infant
+SRR5621406	Western European Infant
+SRR5621407	Western European Infant
+SRR5621408	Western European Infant
+SRR5621409	Western European Infant
+SRR5621410	Western European Infant
+SRR5621411	Western European Infant
+SRR5621412	Western European Infant
+SRR5621413	Western European Infant
+SRR5621414	Western European Infant
+SRR5621415	Western European Infant
+SRR5621416	Western European Infant
+SRR5621417	Western European Infant
+SRR5621418	Western European Infant
+SRR5621419	Western European Infant
+SRR5650021	North American
+SRR5650022	North American
+SRR5650023	North American
+SRR5650024	North American
+SRR5650025	North American
+SRR5650026	North American
+SRR5650027	North American
+SRR5650028	North American
+SRR5650029	North American
+SRR5650030	North American
+SRR5650031	North American
+SRR5650032	North American
+SRR5650033	North American
+SRR5650034	North American
+SRR5650035	North American
+SRR5650036	North American
+SRR5650037	North American
+SRR5650038	North American
+SRR5650039	North American
+SRR5650040	North American
+SRR5650041	North American
+SRR5650042	North American
+SRR5650043	North American
+SRR5650044	North American
+SRR5650045	North American
+SRR5650046	North American
+SRR5650047	North American
+SRR5650048	North American
+SRR5650049	North American
+SRR5650050	North American
+SRR5650051	North American
+SRR5650052	North American
+SRR5650053	North American
+SRR5650054	North American
+SRR5650055	North American
+SRR5650056	North American
+SRR5650057	North American
+SRR5650058	North American
+SRR5650059	North American
+SRR5650060	North American
+SRR5650061	North American
+SRR5650062	North American
+SRR5650063	North American
+SRR5650064	North American
+SRR5650065	North American
+SRR5650066	North American
+SRR5650067	North American
+SRR5650068	North American
+SRR5650069	North American
+SRR5650070	North American
+SRR5650071	North American
+SRR5650072	North American
+SRR5650073	North American
+SRR5650074	North American
+SRR5650075	North American
+SRR5650076	North American
+SRR5650077	North American
+SRR5650078	North American
+SRR5650079	North American
+SRR5650080	North American
+SRR5650081	North American
+SRR5650082	North American
+SRR5650083	North American
+SRR5650084	North American
+SRR5650085	North American
+SRR5650086	North American
+SRR5650087	North American
+SRR5650088	North American
+SRR5650089	North American
+SRR5650090	North American
+SRR5650091	North American
+SRR5650092	North American
+SRR5650093	North American
+SRR5650094	North American
+SRR5650095	North American
+SRR5650096	North American
+SRR5650097	North American
+SRR5650098	North American
+SRR5650099	North American
+SRR5650100	North American
+SRR5650101	North American
+SRR5650102	North American
+SRR5650103	North American
+SRR5650104	North American
+SRR5650105	North American
+SRR5650106	North American
+SRR5650107	North American
+SRR5650108	North American
+SRR5650109	North American
+SRR5650110	North American
+SRR5650111	North American
+SRR5650112	North American
+SRR5650113	North American
+SRR5650114	North American
+SRR5650115	North American
+SRR5650116	North American
+SRR5650117	North American
+SRR5650118	North American
+SRR5650119	North American
+SRR5650120	North American

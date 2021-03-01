@@ -1,0 +1,21 @@
+' Type a list of Flows, like this:
+'     SOURCE [AMOUNT] TARGET
+' Examples:
+
+Conjugative Systems from General cohort [268] Total Conjugative Systems #872325
+Conjugative Systems from Pre-term Infants [96] Total Conjugative Systems #872366
+Total Conjugative Systems [94] System in bin #0823a6
+Total Conjugative Systems [270] System not in bin #fcba03
+System in bin [65] System in high-quality bin #db6995
+System in bin [29] System in low-quality bin #5accca
+System in high-quality bin [19] System in same bin as other systems #c04fc4
+System in high-quality bin [46] System alone in high-quality bin #612387
+System in low-quality bin [21] System in low-quality bin >= 1Mb #75ad3d
+System in low-quality bin [8] System in low-quality bin <= 1Mb #d6d627
+
+' After your Flows are entered, use the
+' controls below to customize your
+' diagram's appearance.
+
+' For even finer control over presentation,
+' see the Manual (linked above).

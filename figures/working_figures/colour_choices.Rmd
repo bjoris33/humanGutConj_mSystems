@@ -1,0 +1,33 @@
+# Reassembly anvi'o diagram
+cohort:
+  infant: 1e10e6
+  general: d47800
+
+Phylum:
+    Firmicutes: 9e9a8b
+    Bacteroidetes: 804e49
+    Proteobacteria: d138cc
+    Actinobacteria: 1ea8e3
+
+# Population mapping anvi'o diagram
+cohort:
+  Western European Infant: 3a21db
+  Western European Adult: 54a4f0
+  North American Pre-term Infant: 8d2eb3
+  North American General:aeeb8a
+  North American Indigenous: 015e20
+  South East Asian Adult: d96ca8
+  South American: b83d0d
+  West African Adult: ff9c40
+  infant: 1e10e6
+  general: d47800
+("West African","Southeast Asian", "Western European", " Western European Infants", "North American", "North American\nIndigenous", "North American\nPre-term Infants", "South American")
+("#ff9c40","#d96ca8","#54a4f0","#3a21db","#aeeb8a","#015e20","#8d2eb3","#b83d0d")
+Phylum:
+    Firmicutes: 9e9a8b
+    Bacteroidetes: 804e49
+    Proteobacteria: d138cc
+    Actinobacteria: 1ea8e3
+    Fusobacteria:9fe028
+    Tenericutes: ebad28
+    Verrucomicrobia: ffff00

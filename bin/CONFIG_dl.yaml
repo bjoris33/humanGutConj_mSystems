@@ -1,0 +1,6 @@
+# Install location of fasterq-dump/cache-mgr
+fasterq: /Volumes/data/bin/sratoolkit.2.9.2-centos_linux64/bin/fasterq-dump
+cache: /Volumes/data/bin/sratoolkit.2.9.2-centos_linux64/bin/cache-mgr
+
+# Install location of Trimmomatic
+trimmomatic: /Volumes/data/bin/Trimmomatic-0.36/trimmomatic-0.36.jar
